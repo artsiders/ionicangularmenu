@@ -1,0 +1,8 @@
+{
+  "name": "ionicangularmenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7be80717"
+}
